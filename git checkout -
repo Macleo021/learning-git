@@ -1,0 +1,45 @@
+[33mcommit 01cde370192dc8d96c849af06e47f5c1f7cbd92a[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-a[m[33m)[m
+Author: NataDev <josuenata@yahoo.es>
+Date:   Sat Jun 18 10:49:49 2022 -0600
+
+    utils.js with todo
+
+[33mcommit fed957d610d5680267a6ed7408150ca658fa2c8d[m[33m ([m[1;32mmain[m[33m, [m[1;32mfeature-ae[m[33m, [m[1;32ma-[m[33m)[m
+Merge: 44c7097 9d5fa12
+Author: NataDev <josuenata@yahoo.es>
+Date:   Sat Jun 18 10:37:06 2022 -0600
+
+    Merge branch 'main' of https://github.com/Macleo021/learning-git
+
+[33mcommit 9d5fa129a7fe068e3a701f03d9ebc2e9d602f9eb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: NataDev <67815422+Macleo021@users.noreply.github.com>
+Date:   Sat Jun 18 10:36:05 2022 -0600
+
+    Update index.html
+    
+    addint the title
+
+[33mcommit 44c7097f3cc74446880fb52e7c5f0f76c0e7798d[m
+Merge: 1867074 e94254c
+Author: NataDev <josuenata@yahoo.es>
+Date:   Sat Jun 18 10:34:15 2022 -0600
+
+    Merge branch 'main' of https://github.com/Macleo021/learning-git
+
+[33mcommit 186707420dc988756650ac6b231e2a1c65dfe94f[m
+Author: NataDev <josuenata@yahoo.es>
+Date:   Sat Jun 18 10:30:00 2022 -0600
+
+    added main.go with empty main function
+
+[33mcommit e94254cc99fb535d5ee1433dc409a9d15d636804[m
+Author: Macleo021 <67815422+Macleo021@users.noreply.github.com>
+Date:   Sat Jun 18 09:10:16 2022 -0600
+
+    Create README.md
+
+[33mcommit c095db231d48232a8601f1d00a346811a9d27142[m
+Author: NataDev <josuenata@yahoo.es>
+Date:   Thu Jun 16 22:38:37 2022 -0600
+
+    bootstrap project
